@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F3F4F6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* ------------------------second section about us content-------------- */
